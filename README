@@ -1,0 +1,10 @@
+#Requirements:
+1. OpenCV
+2. Dlib
+
+#Create a face morph video:
+
+Run the main.py file and provide the path of the two images you want to morph. The output will be a video file with the morphing effect.
+
+#Example:
+```python main.py hillary_clinton.jpg ted_cruz.jpg```
